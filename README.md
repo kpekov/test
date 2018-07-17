@@ -5,3 +5,4 @@
 ## ActivityLED
 
 ## StripLine
+![emulator](StripLine.png)
